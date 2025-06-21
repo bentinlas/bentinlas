@@ -1,7 +1,7 @@
 ## Eae Galera, meu Nome é Bento Vieira e estou aprendendo a ser um dev 
 
 - 🔭 Estou atualmente trabalhando com front-end
-- 🌱 Estou estudando phyton pelo cursoemvideo e estudando o ensino medio
+- 🌱 Estou estudando phyton pelo cursoemvideo e o ensino medio
 - 📫 contate minhas redes: @bentoo.vieira
 - 😄 pronomes: ele/dele
  
