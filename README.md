@@ -2,7 +2,7 @@
 
 - 🔭 Estou atualmente trabalhando com front-end
 - 🌱 Estou estudando phyton pelo cursoemvideo e o ensino medio
-- 📫 contate minhas redes: @bentoo.vieira
+- 📫 contate minhas redes: bentoovieiracavalcante@gmail.com
 - 😄 pronomes: ele/dele
  
 -->
