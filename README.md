@@ -1,9 +1,9 @@
-## Eae Galera, meu Nome é Bento Vieira e estou aprendendo a ser um dev 
+## Ola! prazer Bento
 
-- 🔭 Estou atualmente trabalhando com front-end
-- 🌱 Estou estudando phyton pelo cursoemvideo e o ensino medio
-- 📫 contate minhas redes: bentoovieiracavalcante@gmail.com
-- 😄 pronomes: ele/dele
+-👨‍💻 Front-end explorer by day, prompt engineer in training by night.
+-🚀 On a mission to craft clean code and smarter prompts.
+-📬 Let’s connect: bentoovieiracavalcante@gmail.com
+-🔤 Pronouns: he/him
  
 -->
 
