@@ -1,8 +1,11 @@
 ## Ola! prazer Bento
 
 -👨‍💻 Front-end explorer by day, prompt engineer in training by night.
+
 -🚀 On a mission to craft clean code and smarter prompts.
+
 -📬 Let’s connect: bentoovieiracavalcante@gmail.com
+
 -🔤 Pronouns: he/him
  
 -->
